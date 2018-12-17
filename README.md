@@ -1,4 +1,4 @@
-# Boss of the SOC (BOTS) Dataset Version 1
+# Splunk Security Datasets Project
 A collection of security-related sample data sets for information security professionals, researchers, students, and enthusiasts.
 
 ## Datasets Included

@@ -4,6 +4,8 @@ A collection of security-related sample data sets for information security profe
 ## Datasets Included
 * [Boss of the SOC Version 1 Dataset](https://github.com/splunk/botsv1)
 * [Boss of the SOC Version 2 Dataset](https://github.com/splunk/botsv2)
+* [Boss of the SOC Version 3 Dataset](https://github.com/splunk/botsv3)
+
 
 ## Warning
 **Please be advised that these datasets may contain profanity, slang, vulgar expressions, and/or generally offensive terminology. Please use with discretion.** 
